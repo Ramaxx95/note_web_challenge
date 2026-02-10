@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: white;
+}
+
+.app-container {
+  padding: 2rem;
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.add-note-button {
+  background-color: lightgray;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.add-note-button:hover {
+  background-color: darkorange;
+}
+
+.view-toggle {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.view-toggle button {
+  padding: 0.4rem 0.8rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.view-toggle .active {
+  background-color: darkorange;
+}
