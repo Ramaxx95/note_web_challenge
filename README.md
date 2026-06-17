@@ -24,24 +24,24 @@ To end the program, simply type ___Ctrl + C___ on your open terminal (As **npm**
 ## Screenshots
 * Main page
   
-  ![Alt Text](Media/First_look.png)
+  
 
 * Creating a note (part 1)
   
-  ![Alt Text](Media/Writing_new_note.png)
+  
 
 * Creating a note (part 2)
 
-  ![Alt Text](Media/Completing_new_note.png)
+ 
 
 * New note created
 
-  ![Alt Text](Media/New_note.png)
+  
 
 * Archiving a note
 
-  ![Alt Text](Media/Archiving_note.png)
+  
 
 * Archives
 
-  ![Alt Text](Media/Archives.png)
+  
